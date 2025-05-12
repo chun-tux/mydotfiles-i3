@@ -62,6 +62,8 @@ exec_always --no-startup-id python3 ~/.config/autotiling/main.py
 # == picom == #
 exec_always --no-startup-id picom --config ~/.config/picom/picom.conf 
 
+# == dunst == #
+exec_always --no-startup-id dunst
 # == wallpaper == #
 exec_always --no-startup-id feh --bg-scale ~/.config/wallpaper/wall.png
 
