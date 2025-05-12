@@ -47,3 +47,15 @@ Backup my i3 configuration
 
 </details>
 
+<details>
+<summary><b>Yazi & Nvim</b></summary>
+
+**`Yazi & Nvim`**
+![img](https://raw.githubusercontent.com/chun-tux/mydotfiles-i3/main/preview/neovimyazi.png)
+
+</details>
+
+
+
+
+
